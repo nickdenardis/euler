@@ -1,0 +1,21 @@
+{
+    "name": "nickdenardis/euler",
+    "description": "Project Euler problems implemented in PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nick DeNardis",
+            "email": "nick.denardis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Euler\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
