@@ -1,0 +1,14 @@
+{
+  "name": "euler",
+  "version": "1.0.0",
+  "description": "Project Euler problems implemented in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nick DeNardis <nick.denardis@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
